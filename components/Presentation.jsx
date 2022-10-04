@@ -3,7 +3,7 @@ import React from "react";
 import Image from "next/image";
 import { AiFillFacebook, AiFillLinkedin, AiFillGithub } from "react-icons/ai";
 import deved from "../public/dev-ed-wave.png";
-import Perfil from "../public/IMG_4116-_1_.png"
+import Perfil from "../public/img1.png"
 
 const Presentation = () => {
   return (
